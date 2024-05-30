@@ -1,5 +1,7 @@
 # 2048 Game
 
+[Live Demo](https://olduma.github.io/2048-game-final/)
+
 ## Description
 
 This project is an implementation of the popular 2048 game. The goal of the game is to combine tiles with the same number to reach the 2048 tile. The project includes a responsive design, interactive elements, and a simple user interface.
